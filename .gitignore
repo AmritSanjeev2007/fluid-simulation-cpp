@@ -1,0 +1,11 @@
+.vscode/*
+build/
+*.exe
+*.o
+*.obj
+# ...but keep Wavefront .obj models in assets/
+!assets/**/*.obj
+compile_commands.json
+.cache/
+imgui.ini
+assets/blender/*

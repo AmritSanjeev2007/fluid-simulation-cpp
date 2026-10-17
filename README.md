@@ -1,6 +1,8 @@
 # Fluid Simulation C++
 A 3D fluid simulation program that can take in "closed" 3D mesh and simulate fluid mechanics around it.
 
+<img width="3838" height="2258" alt="image" src="https://github.com/user-attachments/assets/ecdada12-caf8-49e2-8edd-89d1db26d912" />
+
 ## Dependencies
 
 You don't install any libraries by hand. CMake downloads and builds them automatically the first time you configure:
